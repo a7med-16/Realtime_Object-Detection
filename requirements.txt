@@ -1,0 +1,8 @@
+cv2
+ultralytics
+Yolo
+pandas
+pyttsx3
+os
+time
+defaultdict
